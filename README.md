@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there 👋 I'm Sreedevi B L
 
-<!--
-**sreedeviparu123/sreedeviparu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React Enthusiast | UI Designer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about building modern web applications  
+- 🎨 Focused on clean UI/UX design  
+- ⚛️ Working with React & Tailwind CSS  
+- 🚀 Always learning and improving  
+
+---
+
+### 🛠️ Tech Stack
+- Frontend: React, HTML, CSS, JavaScript, Tailwind CSS  
+- Programming: Python, Java  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+### 📌 Currently Working On
+- Portfolio Website using React  
+- Improving UI/UX design skills  
+- Building real-world frontend projects  
+
+---
+
+### 🌱 Currently Learning
+- Advanced React concepts  
+- Responsive design patterns  
+- Animation & UI effects  
+
+---
+
+### 📫 Contact Me
+- Email: sreedevivl2006@gmail.com  
+- GitHub: https://github.com/sreedeviparu123  
+
+---
+
+### ⚡ Fun Fact
+I love turning simple ideas into beautiful and interactive web experiences ✨
